@@ -1,0 +1,21 @@
+{
+    "profiles" : {
+        "data": [
+            {
+                "id" : 1,
+                "description" : "PRE",
+                "active" : true
+            },
+            {
+                "id" : 2,
+                "description" : "POS",
+                "active" : true
+            },
+            {
+                "id" : 3,
+                "description" : "CTL",
+                "active" : true
+            }
+        ]
+    }
+}
